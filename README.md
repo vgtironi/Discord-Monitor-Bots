@@ -3,8 +3,8 @@ O objetivo desse projeto é criar 3 bots do discord que notificam re-stocks de p
 
 # Referências necessárias
 Antes de tudo, ver essas referências é a parte mais importante para compreender o projeto.
-[Setup Discord Python Bot](https://www.youtube.com/playlist?list=PLqq1dWUDSxy4g1B3h12qPnHb0QsI6T7XG)
-[Setup Google Sheets API](https://youtu.be/cnPlKLEGR7E)
+- [Setup Discord Python Bot](https://www.youtube.com/playlist?list=PLqq1dWUDSxy4g1B3h12qPnHb0QsI6T7XG)
+- [Setup Google Sheets API](https://youtu.be/cnPlKLEGR7E)
 
 # Sobre os arquivos
 ## Dependencias
@@ -21,5 +21,5 @@ Porém, seguindo as Referências necessárias é possível compreender todas ess
 ## NikeTesting
 Com o site da nike não consegui uma forma estável de ter o estoque dos itens... 
 - Como exemplo:
-![](https://prnt.sc/upnoac)
+[na primeira execução da certo, mas depois ele pega outros tamanhos, como se armazenasse um cache na própria nike](https://prnt.sc/upnoac)
 
