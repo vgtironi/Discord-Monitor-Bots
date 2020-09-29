@@ -7,19 +7,20 @@ Antes de tudo, ver essas referências é a parte mais importante para compreende
 - [Setup Google Sheets API](https://youtu.be/cnPlKLEGR7E)
 
 # Sobre os arquivos
-## Dependencias
+## Dependências
 Todas podem ser instaladas com pip install
-- discord.py
-  (na referencia é usada outra versão, mas nos arquivos é usada a "discord.py")
+- discord.py (na referencia é usada outra versão, mas nos arquivos é usada a "discord.py")
 - bs4
 - requests
 - gspread
 - oauth2client
 ## Credenciais
-Agumas credenciais são necessárias para rodar os scripts, mas elas estão separadas e explicadas com comentários.
+Agumas credenciais são necessárias para rodar os scripts, mas elas estão separadas e explicadas com comentários. <br>
 Porém, seguindo as Referências necessárias é possível compreender todas essas credenciais.
-## NikeTesting
+## Planilhas
+[As planilhas do drive usadas no código seguiam o seguinte padrão](https://prnt.sc/upntb4)
+## NikeTesting.py
 Com o site da nike não consegui uma forma estável de ter o estoque dos itens... 
-- Como exemplo:
-[na primeira execução da certo, mas depois ele pega outros tamanhos, como se armazenasse um cache na própria nike](https://prnt.sc/upnoac)
-
+- Como exemplo: [na primeira execução da certo, mas depois ele pega outros tamanhos, como se armazenasse um cache na própria nike](https://prnt.sc/upnoac)
+<br>
+Por esse motivo não existe ainda o script do bot responsável pelo bot da nike
