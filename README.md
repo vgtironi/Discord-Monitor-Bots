@@ -21,6 +21,5 @@ Porém, seguindo as Referências necessárias é possível compreender todas ess
 [As planilhas do drive usadas no código seguiam o seguinte padrão](https://prnt.sc/upntb4)
 ## NikeTesting.py
 Com o site da nike não consegui uma forma estável de ter o estoque dos itens... 
-- Como exemplo: [na primeira execução da certo, mas depois ele pega outros tamanhos, como se armazenasse um cache na própria nike](https://prnt.sc/upnoac)
-<br>
+- Como exemplo: [na primeira execução da certo, mas depois ele pega outros tamanhos, como se armazenasse um cache na própria nike](https://prnt.sc/upnoac) <br>
 Por esse motivo não existe ainda o script do bot responsável pelo bot da nike
