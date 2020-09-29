@@ -20,9 +20,8 @@ Porém, seguindo as Referências necessárias é possível compreender todas ess
 ## Planilhas
 [As planilhas do drive usadas no código seguiam o seguinte padrão](https://prnt.sc/upntb4)
 ## NikeTesting.py
-Com o site da nike não consegui uma forma estável de ter o estoque dos itens...
-- Como exemplo: [na primeira execução da certo, mas depois ele pega outros tamanhos, como se armazenasse um cache na própria nike](https://prnt.sc/upnoac)
-<br> 
+Com o site da nike não consegui uma forma estável de ter o estoque dos itens... <br><br>
+Como exemplo: [na primeira execução da certo, mas depois ele pega outros tamanhos, como se armazenasse um cache na própria nike](https://prnt.sc/upnoac) <br><br>
 Por esse motivo não existe ainda o script responsável pelo bot da nike.
 ## creds.json
 Esse é o arquivo das credenciais da API do google sheets. Ele segue exatamente a referência citada.
